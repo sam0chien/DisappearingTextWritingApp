@@ -1,1 +1,2 @@
-# JUST A DISAPPEARING TEXT WRITING APP
+# Disappearing Text Writing
+GUI application practice.
